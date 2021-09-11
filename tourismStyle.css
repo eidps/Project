@@ -1,0 +1,52 @@
+#centerDiv{
+  border-top: 5px dashed #12A1DC;
+  border-right: 5px dashed #12A1DC;
+  border-left: 5px dashed #12A1DC;
+  border-bottom: 5px dashed #12a1dc;
+}
+#top{
+  border-bottom: 10px solid #000000;
+}
+a{
+font-family: defunct;
+color: #d11f1f;
+}
+@font-face {
+  font-family: deffect;
+  src: url(latoe.ttf);
+}
+h3{
+  font-family: deffect;
+  color: #13137d;
+}
+h1{
+  font-family: deffect;
+}
+#the{
+  font-family: deffect;
+}
+#number{
+  font-family: deffect;
+}
+@font-face{
+  font-family: defunct;
+  src: url(sig.ttf);
+}
+hr{
+  border-width: thick;
+  border-style: solid;
+
+}
+html{
+  background-color: #28ff1b;
+
+}
+td{
+  font-family: defunct
+}
+#a{
+  border-left: 5px dashed #12a1dc;
+}
+#b{
+  border-right: 5px dashed #12a1dc;
+}
